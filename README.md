@@ -17,4 +17,6 @@ finally, calculate the calories based on the mass which is calcuated from the vo
 
 -Pillow
 
+-PyQt5
+
 ![image](https://user-images.githubusercontent.com/59284208/121618941-fa04e880-ca67-11eb-85c7-94752f3dd903.jpeg)
